@@ -193,3 +193,7 @@ All credits belong to Sehrope Sarkuni from [launchbylunch.com](https://launchbyl
 
   
 
+### Official Reference and useful links
+
+ - [Database Naming Convention](https://github.com/RootSoft/Database-Naming-Convention/edit/master/README.md) (by Tomas Verhelst)
+
